@@ -1,7 +1,7 @@
 {
   "name": "n8n-monorepo",
   "version": "1.71.0",
-  "private": false,
+  "private": true,
   "engines": {
     "node": ">=20.15",
     "pnpm": ">=9.5"
